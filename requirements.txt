@@ -1,0 +1,4 @@
+fastapi[standard]
+requests==2.32.3
+pydantic==2.10.4
+bs4==0.0.2

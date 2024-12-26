@@ -1,0 +1,6 @@
+__pycache__/
+atlys-venv/
+images/
+.ropeproject/
+db.json
+.env
